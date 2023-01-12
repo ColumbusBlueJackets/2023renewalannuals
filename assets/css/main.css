@@ -2839,15 +2839,15 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #006699;
+				background-color: #cc0033;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #eee1c6;
+				background-color: #003366;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #cccccc;
+				background-color: #cc0033;
 			}
 
 			.tiles article:nth-child(6n):before {
